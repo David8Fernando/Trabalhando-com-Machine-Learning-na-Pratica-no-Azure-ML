@@ -2,7 +2,7 @@
 
 ## Guia de Utilização do Azure Machine Learning
 
-Este guia fornece instruções detalhadas sobre como configurar e usar o Azure Machine Learning para criar, treinar e testar modelos de aprendizado de máquina.
+Este guia fornece instruções sobre como configurar e usar o Azure Machine Learning para criar, treinar e testar modelos de aprendizado de máquina.
 
 ### Passo 1: Criar Recurso do Azure Machine Learning
 1. Acesse o portal do Azure e clique em "Criar recurso".

@@ -23,9 +23,41 @@ Este guia fornece instruções detalhadas sobre como configurar e usar o Azure M
 
 ### Passo 4: Métricas do Modelo
 1. Acesse as métricas do modelo treinado na página do modelo ou na aba "Tarefas (jobs)".
-
+![Img](./img/modelos.gif)
 
 ### Passo 5: Teste do Modelo
 1. Implante o modelo na aba "Pontos de extremidade" da página do modelo.
 2. Caso o botão de implantação não funcione, crie um ponto de extremidade manualmente.
 3. Acesse a aba "Testar" do ponto de extremidade e envie uma solicitação de teste com os dados JSON.
+
+<code>
+{
+    "input_data": {
+      "data": [
+         {
+           "day": 21,
+           "mnth": 2,   
+           "year": 2026,
+           "season": 2,
+           "holiday": 0,
+           "weekday": 1,
+           "workingday": 1,
+           "weathersit": 2, 
+           "temp": 0.3, 
+           "atemp": 0.3,
+           "hum": 0.3,
+           "windspeed": 0.3 
+         }
+       ]
+    }
+  }
+<code>
+
+![Img](./img/Resultado do teste.png)
+
+
+resultado:
+
+float331.20547504556765
+
+![Img](./img/Resultado%20do%20teste.png)

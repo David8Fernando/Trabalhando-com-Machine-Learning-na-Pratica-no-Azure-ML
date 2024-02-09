@@ -1,4 +1,4 @@
-# Trabalhando com Machine Learning na Pratica nob Azure ML
+# Trabalhando com Machine Learning na Pratica no Azure ML
 
 ## Guia de Utilização do Azure Machine Learning
 

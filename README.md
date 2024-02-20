@@ -62,7 +62,7 @@ float331.20547504556765
 
 ![Img](./img/Resultado%20do%20teste.png)
 
-Entre em contato:
+### Entre em contato:
 
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/David8Fernando/)](https://github.com/David8Fernando/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira)
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/David8Fernando/)](https://github.com/David8Fernando/) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davidfernandopereira/)](https://www.linkedin.com/in/davidfernandopereira)
+
